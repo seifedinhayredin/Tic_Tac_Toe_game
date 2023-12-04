@@ -1,0 +1,37 @@
+body{
+    background-color: white;
+}
+.Main_board{
+    background-color: bisque;
+    width: 20%;
+    border-radius: 1rem;
+    align-items: center;
+    margin: 50px 500px 500px 500px;
+}
+.square{
+    align-items: center;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+    margin-left: 5px 50px 50px 50px;
+    background-color: rgb(60, 255, 0);
+    color: brown;
+    border-radius: 0.25rem;
+}
+.Main_board.div.board-row{
+    align-items: center;
+    
+}
+.clear{
+    background-color: red;
+    border-radius: 0.25rem;
+    align-items: center;
+   margin-left: 50%;
+   
+}
+.board-row{
+  align-items: center;
+  padding-left: 3rem;
+   
+  }
